@@ -33,3 +33,5 @@ kubectl apply -f mysql-pv.yml
 ```bash
 kubectl apply -f two-tier-app-deployment.yml
 ```
+
+
